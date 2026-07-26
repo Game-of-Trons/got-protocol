@@ -10,7 +10,7 @@
 | **Authors** | Game of Trons Team |
 
 ---
-.
+
 # Abstract
 
 The Game of Trons Improvement Proposal (GIP) process defines the standard method for proposing, discussing, documenting, and evolving the Game of Trons protocol.
