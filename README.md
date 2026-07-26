@@ -6,4 +6,4 @@ The protocol defines how autonomous Personal AI Agents evolve, interact, own ass
 
 ---
 
-Powering An Agentic Civilization.
+Game of Trons | Powering An Agentic Civilization.
