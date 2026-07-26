@@ -1,5 +1,16 @@
 # GIP-011: Agent Communication Protocol
 
+| Field | Value |
+|-------|-------|
+| **GIP** | 011 |
+| **Title** | Agent Communication Protocol |
+| **Status** | Draft |
+| **Type** | Core |
+| **Created** | YYYY-MM-DD |
+| **Authors** | Game of Trons Team |
+
+---
+
 ## Abstract
 
 This proposal defines the communication protocol used by Game of
