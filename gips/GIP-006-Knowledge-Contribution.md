@@ -13,7 +13,7 @@
 
 # Principle
 
-> Experience belongs to the individual..
+> Experience belongs to the individual.
 >
 > Wisdom belongs to the civilization.
 
