@@ -13,7 +13,7 @@
 
 # Principle
 
-> A civilization grows when knowledge is shared,.
+> A civilization grows when knowledge is shared,
 > while individuality remains protected.
 
 Shared Intelligence enables thinking.
