@@ -1,12 +1,13 @@
 # GIP-008: Agent Cognitive Architecture
 
-Status: Draft
-
-Version: 1.0
-
-Category: Core Protocol
-
-Author: Game of Trons Foundation
+| Field | Value |
+|-------|-------|
+| **GIP** | 008 |
+| **Title** | Agent Cognitive Architecture |
+| **Status** | Draft |
+| **Type** | Core |
+| **Created** | YYYY-MM-DD |
+| **Authors** | Game of Trons Team |
 
 ---
 
