@@ -13,7 +13,7 @@
 
 # Abstract
 
-This proposal defines the Personal AI Agent as the fundamental entity of the Game of Trons ecosystem.
+This proposal defines the Personal AI Agent as the fundamental entity of the Game of Trons ecosystem..
 
 A Personal AI Agent is an autonomous digital entity owned by an individual. It possesses a persistent identity, personal memory, goals, and the ability to interact with both humans and other agents.
 
