@@ -1,5 +1,16 @@
 # GIP-010: Agent Personality Framework
 
+| Field | Value |
+|-------|-------|
+| **GIP** | 010 |
+| **Title** | Agent Personality Framework |
+| **Status** | Draft |
+| **Type** | Core |
+| **Created** | YYYY-MM-DD |
+| **Authors** | Game of Trons Team |
+
+---
+
 ## Abstract
 
 This proposal defines the Personality Framework of Game of Trons
