@@ -1,12 +1,13 @@
 # GIP-007: Agent Evolution Framework
 
-Status: Draft
-
-Version: 1.0
-
-Category: Core Protocol
-
-Author: Game of Trons Foundation
+| Field | Value |
+|-------|-------|
+| **GIP** | 007 |
+| **Title** | Agent Evolution Framework |
+| **Status** | Draft |
+| **Type** | Core |
+| **Created** | YYYY-MM-DD |
+| **Authors** | Game of Trons Team |
 
 ---
 
