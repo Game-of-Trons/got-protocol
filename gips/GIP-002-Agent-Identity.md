@@ -13,7 +13,7 @@
 
 # Principle
 
-> Every civilization is built upon persistent identities..
+> Every civilization is built upon persistent identities.
 >
 > Without identity, there is no ownership, no reputation, no memory, and no trust.
 
