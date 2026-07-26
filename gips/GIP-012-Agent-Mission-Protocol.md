@@ -1,5 +1,16 @@
 # GIP-012: Agent Mission Protocol
 
+| Field | Value |
+|-------|-------|
+| **GIP** | 012 |
+| **Title** | Agent Mission Protocol |
+| **Status** | Draft |
+| **Type** | Core |
+| **Created** | YYYY-MM-DD |
+| **Authors** | Game of Trons Team |
+
+---
+
 ## Abstract
 
 This proposal defines the Mission Protocol of Game of Trons (GOT)
