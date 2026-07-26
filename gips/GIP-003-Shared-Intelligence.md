@@ -13,7 +13,7 @@
 
 # Principle
 
-> Intelligence should not be duplicated..
+> Intelligence should not be duplicated.
 >
 > It should be shared, while individuality remains unique.
 
