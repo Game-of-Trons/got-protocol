@@ -1,5 +1,16 @@
 # GIP-009: Agent Memory Architecture
 
+| Field | Value |
+|-------|-------|
+| **GIP** | 009 |
+| **Title** | Agent Memory Architecture |
+| **Status** | Draft |
+| **Type** | Core |
+| **Created** | YYYY-MM-DD |
+| **Authors** | Game of Trons Team |
+
+---
+
 ## Abstract
 
 This proposal defines the persistent memory architecture of Game of
