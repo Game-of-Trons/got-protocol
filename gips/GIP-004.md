@@ -13,7 +13,7 @@
 
 # Principle
 
-> Intelligence enables reasoning..
+> Intelligence enables reasoning.
 >
 > Memory creates identity.
 
